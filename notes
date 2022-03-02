@@ -1,0 +1,2 @@
+# Retrieve the primary key
+az cosmosdb keys list --name <myCosmosDBacct> --resource-group az204-cosmos-rg
